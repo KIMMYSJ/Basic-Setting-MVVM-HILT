@@ -4,6 +4,7 @@ This is just basic example for setting up MVVM design pattern with HILT, Retrofi
 - I will post later for the room database and the mapper function to it
 
 Libraries List:
+    
     Project Gradle
     
         dependencies {
